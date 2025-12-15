@@ -19,6 +19,25 @@
       "Meita\\Wps\\Tests\\": "tests/"
     }
   },
+  "authors": [
+    {
+      "name": "Eng. Mohamed A. Eita",
+      "email": "maa1987@hotmail.com"
+    }
+  ],
+  "keywords": [
+    "wps",
+    "payroll",
+    "saudi",
+    "bank",
+    "alrajhi",
+    "riyad",
+    "alahli",
+    "alinma",
+    "anb",
+    "laravel",
+    "php"
+  ],
   "scripts": {
     "test": "phpunit"
   },
